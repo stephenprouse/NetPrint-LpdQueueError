@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetPrint_LpdQueueError.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Program Files (x86)\NetDelivery\DB\LpdQueueError.db</Value>
+    </Setting>
+    <Setting Name="dbNetPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\\\uchnetprint3\e$\Program Files (x86)\NetDelivery\DB\LpdQueueError.db</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
